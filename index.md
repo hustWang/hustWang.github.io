@@ -2,4 +2,4 @@
 layout: frontpage
 ---
 
-## Something and Summay
+## Something and Summary
