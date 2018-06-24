@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 友情链接
-description: 朋友们的博客和主页
-keywords: 友情链接
+title: 链接
+description: 一些链接
+keywords: 链接
 permalink: /links/
 ---
 
 <ul>
-<li><a href="http://mazhuang.org/">码志</a></li>
+<li><a href="http://hustWang.github.io/">github</a></li>
 </ul>
