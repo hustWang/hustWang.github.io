@@ -9,12 +9,12 @@
                 + currentdate.getFullYear() + "-" + (currentdate.getMonth()+1) + "-" + currentdate.getDate() + "-" + title + ".md";
                 
             var defaultText =  [
-                '---',
+     //           '---',
                 'layout: post',
                 'comments: true',
-                'categories: OpenStack',
-                '---',
-                '## Title',
+                'categories: linux',
+     //	 '---',
+                '### Title',
                 'text'
                 ].join('\n');
             urlNewPage += "&value=" + encodeURIComponent(defaultText);
