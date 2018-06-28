@@ -7,5 +7,5 @@ permalink: /links/
 ---
 
 <ul>
-<li><a href="http://hustWang.github.io/">github</a></li>
+<li><a href="https://github.com/hustWang/">github</a></li>
 </ul>
