@@ -22,4 +22,4 @@ keywords: anaconda，python
   4. 点击py35后的执行按钮，选择open Terminal，打开py35环境对应的终端，切换到xxx.whl包对应的目录，即可进行相应python包的安装。其余环境同理。以此解决不同python版本下需要安装python包的问题。 
   ```
 
-  ![anaconda](pictures\anaconda.PNG)
+  ![anaconda](pictures/anaconda.PNG)
