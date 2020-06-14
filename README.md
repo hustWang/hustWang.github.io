@@ -1,4 +1,2 @@
-Dear Prince
-=================
+# Initial page
 
-* something and sommary
